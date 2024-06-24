@@ -248,6 +248,12 @@ Note: Feel free to reach out for clarification or assistance with any aspect of 
 - Created this comprehensive document detailing the setup process.
 ```
 
+**GitHub Repository:**
+
+```powershell
+https://github.com/Techsupport254/Agrisolve-admin.git
+```
+
 **Reflection:**
 
 During the setup process, I encountered a few challenges such as configuring MySQL correctly and ensuring that all necessary dependencies were installed for Python. To overcome these, I referred to the official documentation and community forums for guidance. Additionally, setting up Git and connecting it to GitHub required careful attention to ensure proper initialization and configuration.
